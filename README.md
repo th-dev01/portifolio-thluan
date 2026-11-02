@@ -1,29 +1,46 @@
-# Welcome to your Lovable project
+# Thiago Luan Ferreira de Souza
 
-This project was built with [Lovable](https://lovable.dev).
+### Analista de Dados | Business Intelligence | Automação
 
-## Build with Lovable
+Sou bacharel em Sistemas de Informação e tenho experiência em desenvolvimento de soluções tecnológicas, análise de dados e automação de processos. Gosto de transformar informações e tarefas do dia a dia em soluções claras, úteis e eficientes para apoiar pessoas e organizações.
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+## Sobre mim
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- 🎓 Bacharel em Sistemas de Informação pelo CEST, formação concluída em 2026.
+- 💼 Atuei como Assistente de TI na ONE Empreendimentos, de maio de 2023 a agosto de 2025.
+- 📊 Tenho interesse em análise de dados, Business Intelligence e Inteligência Artificial.
+- 🤝 Valorizo a colaboração, a aprendizagem contínua e a resolução prática de problemas.
 
-## Development
+## Competências
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+- **Análise de dados:** coleta, organização, tratamento e exploração de dados.
+- **Visualização e BI:** criação de dashboards, indicadores e relatórios para apoiar decisões.
+- **Automação:** identificação de tarefas repetitivas e criação de fluxos para torná-las mais eficientes.
+- **Bancos de dados:** consulta, organização e manipulação de dados relacionais.
+- **Desenvolvimento de soluções:** criação e manutenção de ferramentas digitais alinhadas às necessidades do negócio.
+- **Suporte e tecnologia:** atendimento a usuários e implementação de soluções tecnológicas internas.
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+## Experiência
 
-## Built with
+**Assistente de TI — ONE Empreendimentos**  
+*Maio de 2023 — Agosto de 2025*
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+- Desenvolvimento e manutenção de soluções web.
+- Automação de processos e rotinas.
+- Suporte técnico aos usuários.
+- Implementação de soluções tecnológicas para necessidades internas.
+
+## Formação
+
+**Bacharelado em Sistemas de Informação — CEST**  
+Concluído em 2026.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/thiago-luan369)
+- [GitHub](https://github.com/th-dev01)
+- [E-mail](mailto:thdev.programacao@gmail.com)
+
+---
+
+Este repositório reúne meu portfólio profissional. Para conhecer mais sobre meu perfil e minha trajetória, entre em contato pelos canais acima.
